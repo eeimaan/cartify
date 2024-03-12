@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "283705820851",
+    "project_id": "gym-krause-strength",
+    "storage_bucket": "gym-krause-strength.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283705820851:android:2350b5ffca5321b61292c6",
+        "android_client_info": {
+          "package_name": "krause.com.krausestrength"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283705820851-1j5g2dliuno0u7cviu0jt3v6jlaatpoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5ynS_VSvlQEYmCpW7nU3uG7cKybF9qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283705820851-1j5g2dliuno0u7cviu0jt3v6jlaatpoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283705820851-k4d7177cheupv6na6f1vhc7ndlmi3v3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

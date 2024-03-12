@@ -1,0 +1,71 @@
+class AppRoutes {
+  static const String challengesProgress = '/challengesProgress';
+  static const String createForum = '/createForum';
+  static const String startPage = '/startPage';
+  static const String forumDetail = '/forumDetail';
+  static const String communityScreen = '/communityScreen';
+  static const String createAccount = '/createAccount';
+  static const String loginScreen = '/loginscreen';
+  static const String welcome = '/welcome';
+  static const String workoutDetailPage = '/workoutDetailPage';
+  static const String setReminder = '/setReminder';
+  static const String name = '/name';
+  static const String goal = '/goal';
+  static const String duration = '/duration';
+  static const  exercise = '/exercise';
+  static const dateReminder = '/dateReminder';
+  static const String allReminders = '/allReminders';
+  static const String diet = '/diet';
+  static const String saveDataWidget = '/savedatawidget';
+  static const String bottomNavigationScreen = '/bottomNavigationScreen';
+  static const String homePage = '/homepage';
+  static const String showProfile = '/showprofile';
+  static const String profileSettings = '/profilesettings';
+  static const String personalDetails = '/personaldetails';
+  static const String workout = '/workout';
+  static const String weeklyReminder = '/weeklyReminder';
+  static const String workoutSearch = '/WorkoutSearch';
+  static const String workoutDetails = '/Workoutdetails';
+  static const String nutration = '/nutration';
+  static const String nutrationSearch = '/nutritionSearch';
+  static const String diarySteps = '/diarysteps';
+  static const String diaryMainScreen = '/diary_main_screen';
+  static const String diaryCalories = '/diarycalories';
+  static const String diaryWater = '/diarywater';
+  static const String diaryWeight = '/diaryweight';
+  static const String diaryWorkout = '/diaryworkout';
+  static const String diarySleep = '/diarysleep';
+  static const String nutrationDetails = '/Nutrationdeatils';
+  static const String ecommerceFavoritePage = '/ecommerceFavoritePage';
+  static const String ecommerceEreceiptPage = '/ecommerceEreceiptPage';
+  static const String ecommercePage = '/ecommercePage ';
+  static const String ecommerceProductPage = '/ecommerceProductPage ';
+  static const String ecommerceCartPage = '/ecommerceCartPage';
+  static const String ecommerceNewCardPage = '/ecommerceNewCardPage ';
+  static const String ecommerceReviewPage = '/ecommerceReviewPage';
+  static const String ecommercePaymentPage = '/ecommercePaymentPage';
+  static const String ecommerceCheckoutPage = '/ecommerceCheckoutPage';
+  static const String ecommercePaymentMethodPage =
+      '/ecommercePaymentMethodPage';
+  static const String ecommerceAddressesPage = '/ecommerceAddressesPage';
+  static const String ecommerceOrderPage = '/ecommerceOrderPage';
+  static const String ecommerceOrderDetailPage = '/ecommerceOrderDetailPage';
+  static const String challengesDetails = '/challengesDetails';
+  static const String virtualTrainingPlane = '/virtualTrainingPlane';
+  static const String virtualTraining = '/virtualTraining';
+  static const  plansDetailsScreen = '/plans_details_screen';
+static const liveStreamScreen = '/liveStreamScreen';
+  static const String subscriptionPage = '/subscriptionPage';
+  static const viewOrder = '/viewOrder';
+
+  static const barcodeScannerScreen = '/barcode_scanner_screen';
+  static const String virtualTrainingProgress = '/virtual_training_progress';
+  static const String allTrainingPlansScreen = '/all_training_plans_screen';
+
+  ///  chat routes
+  static const groupMessagesScreen = '/group_messages_screen';
+  static const individualMessagesScreen = '/individual_messages_screen';
+  static const chatMainScreen = '/chat_main_screen';
+  static const allParticipantsUserScreen = '/all_participants_user_screen';
+  static const createGroupScreen = '/create_group_screen';
+}
