@@ -2,6 +2,7 @@
 
 ## Overview
 Cartify is an E-commerce Flutter application designed to provide users with a seamless shopping experience. With a range of features including product browsing, search filtering, favorites management, order tracking, secure payment methods via Stripe, and billing details management, Cartify aims to deliver a comprehensive solution for both users and administrators.
+![e](https://github.com/eeimaan/cartify/assets/69849967/99710d0c-f76e-4c36-9e35-343b29d91f2b)
 
 ## Features
 - **Product Browsing**: Users can explore a wide range of products available in the app.
